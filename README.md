@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmed98955.
+- 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning zsh scripting on linux OS.
 - 💞️ I’m looking to collaborate on discovering some of critical vulnerabilities on the various systems. 
